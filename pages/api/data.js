@@ -327,7 +327,7 @@ export default {
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
-            img : popular2,
+            img : popular1,
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
             far World of Grammar.
@@ -378,7 +378,7 @@ export default {
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
             category: "Business, Travel",
-            img : popular5,
+            img : popular3,
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
             far World of Grammar.

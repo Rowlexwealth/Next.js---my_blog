@@ -2,9 +2,9 @@ import Link from 'next/link'
 import React from 'react'
 import Image from 'next/image';
 import Author from './Author';
-import SwrFetcher from '../../lib/swrFetcher';
 import Spinner from './Spinner';
 import Error from './Error';
+import SwrFetcher from './../../lib/SwrFetcher';
 
 const Related = () => {
     const { data, isLoading, isError } = SwrFetcher('api/posts')
